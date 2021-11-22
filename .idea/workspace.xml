@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65923623-659d-4f4c-b4e5-730eff1e6a89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Fun_Friday_Project/Sessions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun_Friday_Project/templates/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun_Friday_Project/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fun_Friday_Project/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Crossword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Slogan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -29,7 +27,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Fun_Friday_Project/Hello.py" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/CapacityReport" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
@@ -104,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628333608813</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sessions in Flask">
+      <created>1628335699135</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628335699135</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -124,6 +129,7 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Templates" />
     <MESSAGE value="Cookies &amp; Sending Form Data to Template &amp; Static files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cookies &amp; Sending Form Data to Template &amp; Static files" />
+    <MESSAGE value="Sessions in Flask" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sessions in Flask" />
   </component>
 </project>
