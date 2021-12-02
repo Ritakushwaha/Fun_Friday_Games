@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="65923623-659d-4f4c-b4e5-730eff1e6a89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Crossword.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Slogan.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +25,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/CapacityReport" />
+    <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/SSR_and_Routine_Automations" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
