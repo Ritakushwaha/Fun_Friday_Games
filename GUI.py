@@ -6,7 +6,6 @@ from tkinter.ttk import Frame, Label, Style
 
 Main_window = tk.Tk()
 Main_window.title("Fun Friday!!")
-Main_window.attributes('-fullscreen',True)
 
 bg = PhotoImage(file="back.png")
 label1 = Label(Main_window, image=bg)
