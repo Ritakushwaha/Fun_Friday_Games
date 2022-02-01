@@ -253,4 +253,4 @@ random.seed(1)
 words = ["TRICOLOR", "LOTUS", "TIGER", "PEACOCK", "HOCKEY", "RUPEE", "ASHOKAPILLAR", "GANGA", "BANYAN","MANGO","JANGANMAN","VANDEMATRAM"]
 g = Grid()
 g.scan_and_insert_all_words(words)
-print(g.crop())
+print(" "+g.crop())
